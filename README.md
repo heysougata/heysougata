@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/f6ceef6182b0f307f57a53dce6d6f1e5821019109609bbcdf4b776e912949503/68747470733a2f2f6d656469612e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966)]
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi 👋, I'm Sougata Patra</h1>
 <h3 align="center">Meet me - a dynamic and enthusiastic student of Data Science who firmly believes in the boundless potential of data to spearhead a monumental revolution that will transform the very fabric of our world as we know it.</h3>
