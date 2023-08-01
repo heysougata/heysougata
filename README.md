@@ -1,4 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![chatGPT-GitHub-banner](https://github.com/heysougata/heysougata/assets/120707085/0fcd86aa-7005-4131-8f42-eddbc7684131)
+
 
 <h1 align="center">Hi 👋, I'm Sougata Patra</h1>
 <h3 align="center">Meet me - a dynamic and enthusiastic student of Data Science who firmly believes in the boundless potential of data to spearhead a monumental revolution that will transform the very fabric of our world as we know it.</h3>
